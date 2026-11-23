@@ -1,0 +1,7 @@
+# Generated C build files
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+build/
